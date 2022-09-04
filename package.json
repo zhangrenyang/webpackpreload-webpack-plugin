@@ -1,0 +1,16 @@
+{
+  "name": "webpackpreload-webpack-plugin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "preload",
+    "webpackPreload"
+  ],
+  "author": "zhangrenyang",
+  "license": "MIT",
+  "peerDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.74.0"
+  }
+}
